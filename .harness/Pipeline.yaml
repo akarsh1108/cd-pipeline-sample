@@ -1,9 +1,4 @@
-pipeline:
-  name: testk8s
-  identifier: testk8s
-  projectIdentifier: communityeng
-  orgIdentifier: default
-  tags: {}
+tags: {}
   stages:
     - stage:
         name: k8deploy
